@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sachin2496
 - 👀 I’m interested in competitive coding,development,robotics.
 - 🌱 I’m currently studying in IIT BHU . 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 sachin2496/sachin2496 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
